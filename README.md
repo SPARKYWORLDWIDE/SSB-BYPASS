@@ -8,3 +8,5 @@ python SSB.py
 
 Or
 
+python FUCK-SSB.py
+
